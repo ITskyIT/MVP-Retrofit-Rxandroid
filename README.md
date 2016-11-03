@@ -11,3 +11,4 @@ biubiu
 ####俺是四级标题  
 #####俺是五级标题  
 ######俺是六级标题 
+![网站的描述](http://www.baidu.com/img/bdlogo.gif)
